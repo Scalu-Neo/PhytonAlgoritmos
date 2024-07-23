@@ -1,2 +1,2 @@
 # PythonAlgoritmos
-Algoritmos e lógica de programação em Phyton.
+Algoritmos e lógica de programação em Python.
